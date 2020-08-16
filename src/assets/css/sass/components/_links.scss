@@ -1,0 +1,7 @@
+.nav-item {
+    &:hover {
+      border-bottom: $nav-item-border;
+      border-bottom-style: $nav-item-border-style;
+      border-bottom-color: $nav-item-border-color;
+    }
+}

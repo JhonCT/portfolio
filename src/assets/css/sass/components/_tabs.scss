@@ -1,0 +1,11 @@
+.tabs > ul {
+    border-bottom-style: $tabs-ul-border-style;
+}
+
+.tabs > ul > li > a{
+    color: $secundary;
+}
+
+.b-tabs .tab-content {
+    padding: $tabs-padding;
+}

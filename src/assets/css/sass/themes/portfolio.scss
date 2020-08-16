@@ -1,0 +1,25 @@
+@import "~bulma/sass/utilities/_all";
+
+$primary: #ffffff;
+$light: #bfbfbf;
+$light-invert: findColorInvert($light);
+$primary-invert: findColorInvert($primary);
+$secundary: #343031;
+$secundary-invert: findColorInvert($secundary);
+
+@import "../portfolio.styles";
+@import "../variables";
+@import "../components/buttons";
+@import "../components/icons";
+@import "../components/links";
+@import "../components/tabs";
+@import "../components/cards";
+@import "../components/images";
+@import "../components/labels";
+@import "../components/progress";
+@import "../components/textarea";
+@import "../helpers";
+
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
+

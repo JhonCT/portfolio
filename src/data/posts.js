@@ -1,0 +1,32 @@
+export default [
+    {
+        id: 1,
+        day: 10,
+        month: 'Junio',
+        image: 'https://bulma.io/images/placeholders/1280x960.png',
+        title: 'Post 1',
+        category: 'App',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iusto voluptatem porro nihil aliquam provident ex sunt ullam, omnis aliquid, ab fugit aut eius quo delectus facilis aspernatur nam. Dolores!',
+        url: 'https://www.google.com',
+    },
+    {
+        id: 2,
+        day: 20,
+        month: 'Agosto',
+        image: 'https://bulma.io/images/placeholders/1280x960.png',
+        title: 'Post 2',
+        category: 'Mobile',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iusto voluptatem porro nihil aliquam provident ex sunt ullam, omnis aliquid, ab fugit aut eius quo delectus facilis aspernatur nam. Dolores!',
+        url: 'https://www.google.com',
+    },
+    {
+        id: 3,
+        day: 15,
+        month: 'Setiembre',
+        image: 'https://bulma.io/images/placeholders/1280x960.png',
+        title: 'Post 3',
+        category: 'Linux',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iusto voluptatem porro nihil aliquam provident ex sunt ullam, omnis aliquid, ab fugit aut eius quo delectus facilis aspernatur nam. Dolores!',
+        url: 'https://www.google.com',
+    },
+]
